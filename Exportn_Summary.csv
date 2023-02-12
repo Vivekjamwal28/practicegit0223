@@ -1,0 +1,3 @@
+Sitename;NeighbourSitename;LAId(d);LAId(h);Channel;ColourCode;MinRX;FRT;SRT;FRH;SRH;SubsClass;AccP;MaxTX;SecClass;RadioDownlinkTimeout
+Unknown Site;;102;000066;3601;2;-110;10;6;6;8;65535;-39;35;2;432
+;Unknown Site;101;000065;3641;;-110;;;;;65535;;35;;
